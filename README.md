@@ -8,3 +8,9 @@ some description!
 
 
 Watch tutorial on Youtube.
+
+
+
+## Local DEvelopment
+
+open index.html in your browser
